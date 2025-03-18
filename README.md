@@ -1,15 +1,3 @@
-Your README has two main issues:
-	1.	Formatting & Spacing Issues:
-	•	Bullet points and headings are too cluttered.
-	•	Code blocks are not consistently formatted.
-	•	Some text is not rendering properly as Markdown.
-	2.	Table & Indentation Issues:
-	•	The database schema should be properly structured.
-	•	API endpoints should have consistent formatting for request and response examples.
-
-⸻
-
-📌 Fixed & Improved README
 
 # 📌 School Management API  
 
@@ -60,6 +48,9 @@ A **Node.js & Express API** to manage school data using MySQL, allowing users to
 | longitude | FLOAT         | Geographical longitude      |
 
 ---
+
+<img width="1015" alt="Screenshot 2025-03-19 at 1 59 41 am" src="https://github.com/user-attachments/assets/98c086b7-4249-45c1-bb36-9dd0fcb70486" />
+<img width="987" alt="Screenshot 2025-03-19 at 2 00 21 am" src="https://github.com/user-attachments/assets/0e61ed23-65b4-413a-b129-ed6d75f89198" />
 
 ## ⚙️ Setup & Installation  
 
@@ -157,6 +148,5 @@ Server will run at: http://localhost:3000
 ⸻
 
 
-<img width="1015" alt="Screenshot 2025-03-19 at 1 59 41 am" src="https://github.com/user-attachments/assets/98c086b7-4249-45c1-bb36-9dd0fcb70486" />
-<img width="987" alt="Screenshot 2025-03-19 at 2 00 21 am" src="https://github.com/user-attachments/assets/0e61ed23-65b4-413a-b129-ed6d75f89198" />
+
 
