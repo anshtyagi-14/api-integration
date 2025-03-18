@@ -156,14 +156,7 @@ Server will run at: http://localhost:3000
 
 ⸻
 
-✨ Author
-	•	Your Name
-	•	GitHub: your-github-url
-	•	LinkedIn: your-linkedin-url
 
-⸻
+<img width="1015" alt="Screenshot 2025-03-19 at 1 59 41 am" src="https://github.com/user-attachments/assets/98c086b7-4249-45c1-bb36-9dd0fcb70486" />
+<img width="987" alt="Screenshot 2025-03-19 at 2 00 21 am" src="https://github.com/user-attachments/assets/0e61ed23-65b4-413a-b129-ed6d75f89198" />
 
-🎉 Now your README looks clean & professional! 🚀
-
-Copy-paste this into your README.md and push it to GitHub!
-Let me know if you need any more tweaks! 🔥
